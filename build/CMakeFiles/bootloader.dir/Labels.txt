@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/CMakeFiles/bootloader
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/CMakeFiles/bootloader.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/CMakeFiles/bootloader-complete.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

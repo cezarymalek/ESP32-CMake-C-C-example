@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/c/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader",
+    "config_file":        "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.3-dev-907-g6c17e3a64",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/c/esp/esp-idf/components/efuse/Kconfig;/home/c/esp/esp-idf/components/esp32/Kconfig;/home/c/esp/esp-idf/components/esp_common/Kconfig;/home/c/esp/esp-idf/components/log/Kconfig;/home/c/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/c/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/c/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/c/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/c/esp/esp-idf/components/bootloader", "/home/c/esp/esp-idf/components/bootloader_support", "/home/c/esp/esp-idf/components/efuse", "/home/c/esp/esp-idf/components/esp32", "/home/c/esp/esp-idf/components/esp_common", "/home/c/esp/esp-idf/components/esp_rom", "/home/c/esp/esp-idf/components/esptool_py", "/home/c/esp/esp-idf/components/log", "/home/c/esp/esp-idf/components/bootloader/subproject/main", "/home/c/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/c/esp/esp-idf/components/partition_table", "/home/c/esp/esp-idf/components/soc", "/home/c/esp/esp-idf/components/spi_flash", "/home/c/esp/esp-idf/components/xtensa", "" ]
+}

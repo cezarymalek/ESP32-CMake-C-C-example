@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/c/esp/esp-idf/examples/build_system/cmake/idf_as_lib_cxx/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
